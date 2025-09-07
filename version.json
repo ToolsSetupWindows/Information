@@ -1,5 +1,5 @@
 {
-  "latest": "3.2.0",
+  "latest": "3.5.0",
   "download": "https://raw.githubusercontent.com/RioMMO/File-Download/refs/heads/main/ScanProxy-V1.4.exe",
   "changelog": "• Sửa UI\n• Thêm tiện ích IRST\n• Fix lỗi Backup"
 }
