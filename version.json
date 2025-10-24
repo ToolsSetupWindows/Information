@@ -1,5 +1,5 @@
 {
-  "latest": "3.2.3",
+  "latest": "3.2.4",
   "download": "https://github.com/ToolsSetupWindows/ToolsSetupWindows/releases/download/Release/Tools_Windows_Setup.exe",
   "changelog": "• Sửa UI\n• Thêm tiện ích IRST\n• Fix lỗi Backup"
 }
