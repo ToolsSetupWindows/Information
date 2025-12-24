@@ -1,5 +1,5 @@
 {
-  "latest": "3.4.3",
-  "download": "https://www.dropbox.com/scl/fi/g0sje3ela8qjrjy3bdud4/Tools_Setup_Windows.zip?rlkey=kjuee09ifb4mpkz8rdnonwvol&st=n3gb1yd2&dl=1",
+  "latest": "3.5.1",
+  "download": "https://www.dropbox.com/scl/fi/x0401voum0cvg1ysi1nna/Tools-Setup-Windows.zip?rlkey=iwoqoyk98pmd0754yhwmkaj3r&st=02ovsv4e&dl=1",
   "changelog": "• Fix Module Extract\n• Fix Disable/Enable Windows Defender\n• Fix Setup ứng dụng \n• Thêm tiện ích Thủ thuật - Fix lỗi."
 }
